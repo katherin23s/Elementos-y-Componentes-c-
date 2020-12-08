@@ -1,0 +1,10 @@
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\bin\Debug\Elementos y Componentes c.exe.config
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\bin\Debug\Elementos y Componentes c.exe
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\bin\Debug\Elementos y Componentes c.pdb
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\obj\Debug\Elementos y Componentes c.csprojAssemblyReference.cache
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\obj\Debug\Elementos_y_Componentes_c.Form1.resources
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\obj\Debug\Elementos_y_Componentes_c.Properties.Resources.resources
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\obj\Debug\Elementos y Componentes c.csproj.GenerateResource.cache
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\obj\Debug\Elementos y Componentes c.csproj.CoreCompileInputs.cache
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\obj\Debug\Elementos y Componentes c.exe
+C:\Users\key_s\source\repos\Elementos y Componentes c\Elementos y Componentes c\obj\Debug\Elementos y Componentes c.pdb

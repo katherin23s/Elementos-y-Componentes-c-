@@ -16,7 +16,7 @@ namespace Elementos_y_Componentes_c
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BackgroundWorker());
+            Application.Run(new BindingNavigator1());
         }
     }
 }
